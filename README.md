@@ -23,3 +23,6 @@ Provided is a screenshot of the website
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+## Deployed Site
+The page can be reached at https://hibiadelei.github.io/horiseon-refactor-/
