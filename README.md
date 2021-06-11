@@ -7,7 +7,7 @@ This was a short project to refactor the code of a sample website for a company.
 ## Usage
 Provided is a screenshot of the website
     
-    ![site screenshot](assets\images\horiseon screenshot.png)
+    ![site screenshot](assets\images\horiseonscreenshot.png)
     
 
 ## License
