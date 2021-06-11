@@ -6,9 +6,9 @@ This was a short project to refactor the code of a sample website for a company.
 
 ## Usage
 Provided is a screenshot of the website
-    ```md
+    
     ![site screenshot](assets\images\horiseon screenshot.png)
-    ```
+    
 
 ## License
  This program is free software: you can redistribute it and/or modify
